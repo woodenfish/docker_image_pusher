@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ubuntu:latest
 #quincyqiang/mineru:0.3-models
-infiniflow/ragflow:v0.16.0-slim
+infiniflow/ragflow:nightly-slim
