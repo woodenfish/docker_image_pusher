@@ -8,4 +8,5 @@
 #quincyqiang/mineru:0.3-models
 #
 #infiniflow/ragflow:nightly-slim
-buildkite/puppeteer
+#buildkite/puppeteer
+bcgovimages/alpine-node-libreoffice
