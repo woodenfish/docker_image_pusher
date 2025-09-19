@@ -9,4 +9,5 @@
 #
 #infiniflow/ragflow:nightly-slim
 #buildkite/puppeteer
-bcgovimages/alpine-node-libreoffice
+#bcgovimages/alpine-node-libreoffice
+browserless/chrome:latest
