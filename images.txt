@@ -7,7 +7,7 @@
 #ubuntu:latest
 #quincyqiang/mineru:0.3-models
 #
-#infiniflow/ragflow:nightly-slim
+infiniflow/ragflow:nightly-slim
 #buildkite/puppeteer
 #bcgovimages/alpine-node-libreoffice
-browserless/chrome:latest
+#browserless/chrome:latest
